@@ -206,7 +206,7 @@ def get_customers(token):
             data = {
                 "status_code": 404,
                 "status_message": "Not Found",
-                "error": "No certification records found for the given token sdsdsd."
+                "error": "No certification records found for the given token ola."
             }
         else:
             data = {
